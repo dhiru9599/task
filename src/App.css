@@ -1,0 +1,21 @@
+table {
+  margin: 10vh auto;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+
+td {
+  width: 6vw;
+  height: 6vh;
+}
+
+thead{
+  font-weight: bold;
+  background-color: azure;
+}
